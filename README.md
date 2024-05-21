@@ -1,6 +1,8 @@
 NFT Cat Generator
 ================
 
+![Снимок экрана 2024-05-21 в 15 25 31](https://github.com/cloverfield11/PNG-generator-Pinata/assets/130602166/75875d99-ac3d-4eda-8439-69bd61c7bc97) 
+
 NFT Cat Generator is a simple Python application that allows you to generate a specified number of NFTs (Non-Fungible Tokens) with random attributes and upload the images and metadata to Pinata, an IPFS (InterPlanetary File System) pinning service.
 
 Requirements
